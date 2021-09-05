@@ -1,5 +1,5 @@
 # volumio-triggerhappy
-Here’s an updated config file for triggerhappy with extended functionality that works with the hifiberry USB remote and the current build of Volumio (2.861). Here are the contents of /etc/triggerhappy/triggers.d/audio.conf
+Here’s an updated config file for triggerhappy with extended functionality that works with the hifiberry USB remote and the current build of Volumio (2.907). Here are the contents of /etc/triggerhappy/triggers.d/audio.conf
 
 ```
 #VOLUMIO TRIGGERHAPPY CONFIGURATION FILE
